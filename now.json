@@ -1,1 +1,1 @@
-{"version":2,"name":"markdown","builds":[{"src":"index.mdx","use":"@now/mdx-deck"}]}
+{"version":2,"builds":[{"src":"index.mdx","use":"@now/mdx-deck"}]}
